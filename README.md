@@ -21,12 +21,7 @@ This project analyzes bikeshare and weather data to assess how different weather
      ├── bikeshare-analysis.Rproj
      ├── .Rhistory
      ├── data/
-     │   ├── 202302-captialbikeshare-tripdata.csv
-     │   ├── 202303-captialbikeshare-tripdata.csv
-     │   ├── 202304-captialbikeshare-tripdata.csv
-     │   ├── 202305-captialbikeshare-tripdata.csv
-     │   ├── 202306-captialbikeshare-tripdata.csv
-     │   ├── washington dc 2023-01-01 to 2023-12-31.csv
+     ├── ├── README (no data)
      ├── script/
      ├── ├── Bikeshare Project.R
      ├── report/
